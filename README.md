@@ -1,7 +1,7 @@
 ## Hi, Im leo !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IeIeo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IeIeo&hide_progress=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoborgesm&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoborgesm&hide_progress=true&theme=dark)
 
 ##
 <h3 id="about-me">About me</h3>
