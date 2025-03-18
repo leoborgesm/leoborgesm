@@ -9,6 +9,7 @@
 * Python 
   * Experience in Selenium
   * Process automation
+  * Data manipulation and analysis
 * SQL
   * Focus on queries and data analysis
 * Studying NoSQL
