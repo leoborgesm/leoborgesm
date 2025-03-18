@@ -6,8 +6,12 @@
 ##
 <h3 id="about-me">About me</h3>
 
-* Studying Python 
+* Python 
   * Experience in Selenium
+  * Process automation
+* SQL
+  * Focus on queries and data analysis
+* Studying NoSQL
 * Intermediate English level
 * Information Systems Management at UFU (Universidade Federal de Uberlândia)
 
