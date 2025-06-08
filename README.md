@@ -1,4 +1,4 @@
-## Hi, Im leo !
+## Hi, Im Leo !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoborgesm&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoborgesm&hide_progress=true&theme=dark)
